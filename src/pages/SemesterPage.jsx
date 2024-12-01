@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import "./semesterPage.css";
+import "./SemesterPage.css";
 
 const SemesterPage = () => {
     const { id } = useParams(); // Extract semester ID from the URL
