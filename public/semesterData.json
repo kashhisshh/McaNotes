@@ -1,0 +1,328 @@
+{
+    "semesters": {
+        "1": {
+            "previousYear": [
+                {
+                    "title": "Mid Sem - 2022",
+                    "link": "https://drive.google.com/file/d/1tNiUDP07nx0beNXIM-HXjwFGd6kclzpK/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2022",
+                    "link": "https://drive.google.com/file/d/1ELVMCGNZWJgR3_-as5BeFo87GllqO5TI/view?usp=drive_link"
+                }
+            ],
+            "classLecture": [
+                {
+                    "title": "Operating System",
+                    "link": "https://drive.google.com/example-class-lecture-os"
+                },
+                {
+                    "title": "Computer Oriented Numerical Analysis",
+                    "link": "https://drive.google.com/example-class-lecture-cona"
+                },
+                {
+                    "title": "Problem Solving and Programming",
+                    "link": "https://drive.google.com/example-class-lecture-psp"
+                },
+                {
+                    "title": "Computer System Architecture",
+                    "link": "https://drive.google.com/example-class-lecture-csa"
+                },
+                {
+                    "title": "Professional Communication in English",
+                    "link": "https://drive.google.com/example-class-lecture-pce"
+                }
+            ],
+            "notes": [
+                {
+                    "title": "Operating System Notes",
+                    "link": "https://drive.google.com/example-notes-os"
+                },
+                {
+                    "title": "Computer Oriented Numerical Analysis Notes",
+                    "link": "https://drive.google.com/example-notes-cona"
+                },
+                {
+                    "title": "Problem Solving and Programming Notes",
+                    "link": "https://drive.google.com/example-notes-psp"
+                },
+                {
+                    "title": "Computer System Architecture Notes",
+                    "link": "https://drive.google.com/example-notes-csa"
+                },
+                {
+                    "title": "Professional Communication in English Notes",
+                    "link": "https://drive.google.com/example-notes-pce"
+                }
+            ]
+        },
+        "2": {
+            "previousYear": [
+                {
+                    "title": "Mid Sem - 2023",
+                    "link": "https://drive.google.com/file/d/1_I5epeCuw02RbtnngCxXLYj1l8s-S5Yg/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2023",
+                    "link": "https://drive.google.com/file/d/1P5nNbE4b7oeEvtk3SEcEasxPILO_qsyl/view?usp=drive_link"
+                }
+            ],
+            "classLecture": [
+                {
+                    "title": "Software Engineering",
+                    "link": "https://drive.google.com/example-class-lecture-se"
+                },
+                {
+                    "title": "Statistical Computing",
+                    "link": "https://drive.google.com/example-class-lecture-sc"
+                },
+                {
+                    "title": "Data Structure",
+                    "link": "https://drive.google.com/example-class-lecture-ds"
+                },
+                {
+                    "title": "Database Management System",
+                    "link": "https://drive.google.com/example-class-lecture-dbms"
+                },
+                {
+                    "title": "Theory of Computation",
+                    "link": "https://drive.google.com/example-class-lecture-toc"
+                }
+            ],
+            "notes": [
+                {
+                    "title": "Software Engineering Notes",
+                    "link": "https://drive.google.com/example-notes-se"
+                },
+                {
+                    "title": "Statistical Computing Notes",
+                    "link": "https://drive.google.com/example-notes-sc"
+                },
+                {
+                    "title": "Data Structure Notes",
+                    "link": "https://drive.google.com/example-notes-ds"
+                },
+                {
+                    "title": "Database Management System Notes",
+                    "link": "https://drive.google.com/example-notes-dbms"
+                },
+                {
+                    "title": "Theory of Computation Notes",
+                    "link": "https://drive.google.com/example-notes-toc"
+                }
+            ]
+        },
+        "3": {
+            "previousYear": [
+                {
+                    "title": "End Sem - 2021",
+                    "link": "https://drive.google.com/file/d/1dRI-n2g_C93FKOCZEVJ_qKCIHid6w6qj/view?usp=drive_link"
+                },
+                {
+                    "title": "Mid Sem - 2022",
+                    "link": "https://drive.google.com/file/d/1EIe4M5i4TvKknueZxHvEbWP86eaQvydA/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2022",
+                    "link": "https://drive.google.com/file/d/1Z_PVPl883a7k-HC0Po2KapkXKKdso3I9/view?usp=drive_link"
+                },
+                {
+                    "title": "Mid Sem - 2023",
+                    "link": "https://drive.google.com/file/d/1IEyPd7R7P5qFmmH1perlaK7QBf0nEk6b/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2023",
+                    "link": "https://drive.google.com/file/d/1DMnZE1BqSzVO_EnpYSaJ_sRhXykhPM-L/view?usp=drive_link"
+                }
+            ],
+            "classLecture": [
+                {
+                    "title": "Object Oriented Concepts & Java",
+                    "link": "https://drive.google.com/example-class-lecture-ooc-java"
+                },
+                {
+                    "title": "Data Science",
+                    "link": "https://drive.google.com/example-class-lecture-ds"
+                },
+                {
+                    "title": "Analysis and Design of Algorithms",
+                    "link": "https://drive.google.com/example-class-lecture-ada"
+                },
+                {
+                    "title": "Computer Network",
+                    "link": "https://drive.google.com/example-class-lecture-cn"
+                },
+                {
+                    "title": "Compiler Design",
+                    "link": "https://drive.google.com/example-class-lecture-cd"
+                }
+            ],
+            "notes": [
+                {
+                    "title": "Object Oriented Concepts & Java Notes",
+                    "link": "https://drive.google.com/example-notes-ooc-java"
+                },
+                {
+                    "title": "Data Science Notes",
+                    "link": "https://drive.google.com/example-notes-ds"
+                },
+                {
+                    "title": "Analysis and Design of Algorithms Notes",
+                    "link": "https://drive.google.com/example-notes-ada"
+                },
+                {
+                    "title": "Computer Network Notes",
+                    "link": "https://drive.google.com/example-notes-cn"
+                },
+                {
+                    "title": "Compiler Design Notes",
+                    "link": "https://drive.google.com/example-notes-cd"
+                }
+            ]
+        },
+        "4": {
+            "previousYear": [
+                {
+                    "title": "Mid Sem - 2023",
+                    "link": "https://drive.google.com/file/d/16-u6nf79o-8GSKPR_tZiFDx1Y-lWW9BR/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2023",
+                    "link": "https://drive.google.com/file/d/15oKANjVV1fjf7nk83uw8p1XAuY3ngM-u/view?usp=drive_link"
+                },
+                {
+                    "title": "Mid Sem - 2024",
+                    "link": "https://drive.google.com/file/d/190kKGufu_Kx3f-BVSMML6vkQPGtT55Gw/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2024",
+                    "link": "https://drive.google.com/file/d/1STmvk_4F4SeOh-OveQNEM3NZo9ixZEp9/view?usp=drive_link"
+                }
+            ],
+            "classLecture": [
+                {
+                    "title": "AI & Machine Learning",
+                    "link": "https://drive.google.com/example-class-lecture-ai-ml"
+                },
+                {
+                    "title": "Computer Oriented Optimization",
+                    "link": "https://drive.google.com/example-class-lecture-coo"
+                },
+                {
+                    "title": "Elective-I: Web Technology - Advanced Java",
+                    "link": "https://drive.google.com/example-class-lecture-web-tech"
+                },
+                {
+                    "title": "Elective-II: Advanced OS",
+                    "link": "https://drive.google.com/example-class-lecture-advanced-os"
+                },
+                {
+                    "title": "Cryptography & Network Security",
+                    "link": "https://drive.google.com/example-class-lecture-cns"
+                },
+                {
+                    "title": "Advanced Data Mining",
+                    "link": "https://drive.google.com/example-class-lecture-adv-dm"
+                }
+            ],
+            "notes": [
+                {
+                    "title": "AI & Machine Learning Notes",
+                    "link": "https://drive.google.com/example-notes-ai-ml"
+                },
+                {
+                    "title": "Computer Oriented Optimization Notes",
+                    "link": "https://drive.google.com/example-notes-coo"
+                },
+                {
+                    "title": "Web Technology - Advanced Java Notes",
+                    "link": "https://drive.google.com/example-notes-web-tech"
+                },
+                {
+                    "title": "Advanced OS Notes",
+                    "link": "https://drive.google.com/example-notes-advanced-os"
+                },
+                {
+                    "title": "Cryptography & Network Security Notes",
+                    "link": "https://drive.google.com/example-notes-cns"
+                },
+                {
+                    "title": "Advanced Data Mining Notes",
+                    "link": "https://drive.google.com/example-notes-adv-dm"
+                }
+            ]
+        },
+        "5": {
+            "previousYear": [
+                {
+                    "title": "Mid Sem - 2022",
+                    "link": "https://drive.google.com/file/d/1FTmg6UykmJ_BMY4xBit4iNmx7v8C1wk5/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2022",
+                    "link": "https://drive.google.com/file/d/1tvhOE7kQee08Zt0xLQxQKyWC2g7kUnGL/view?usp=drive_link"
+                },
+                {
+                    "title": "Mid Sem - 2023",
+                    "link": "https://drive.google.com/file/d/10ufa7wuDUunUquQS0PwkYtgtjmeClalM/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2023",
+                    "link": "https://drive.google.com/file/d/1JA0wWIAOKoF1P-wsYGb5TaU7s0Rd4ruo/view?usp=drive_link"
+                },
+                {
+                    "title": "Mid Sem - 2024",
+                    "link": "https://drive.google.com/file/d/1GUbtMR6VL0rRWxjoNv0ksH__BzBjDTYm/view?usp=drive_link"
+                },
+                {
+                    "title": "End Sem - 2024",
+                    "link": "https://drive.google.com/file/d/1hcdWXqCW3eRzcV1FyTGi8eagmK0GUI-Y/view?usp=drive_link"
+                }
+            ],
+            "classLecture": [
+                {
+                    "title": "Distributed Computing",
+                    "link": "https://drive.google.com/drive/folders/1hEbNr6XYzXxJjZVE585sCUAXI4v1ct33?usp=sharing"
+                },
+                {
+                    "title": "Elective-III: Swarm Intelligence & Evolutionary Algorithms",
+                    "link": "https://drive.google.com/drive/folders/1Mtuy_vyI9hyBv5o_kNUSEJyfXteIYLP0?usp=sharing"
+                },
+                {
+                    "title": "Elective-III: Mobile Computing",
+                    "link": "https://drive.google.com/drive/folders/1KN6nC1pzfWGr-aLbbTy_3kq_Yvi-3HZ-?usp=sharing"
+                },
+                {
+                    "title": "Elective-IV: Cloud Computing",
+                    "link": "https://drive.google.com/drive/folders/1l2UHDrabN1lzqAx6LyY2KCemkCb-CvnL?usp=sharing"
+                },
+                {
+                    "title": "Open Elective-II: Pattern Recognition",
+                    "link": "https://drive.google.com/drive/folders/1ew8g6UQKdXKYp_PYutVYUlxSPvTeyNCF?usp=sharing"
+                }
+            ],
+            "notes": [
+                {
+                    "title": "Distributed Computing Notes",
+                    "link": "https://drive.google.com/drive/folders/1Ui6ICzH2Qz8HZZFGuCaicA1ya1eggJQ8?usp=sharing"
+                },
+                {
+                    "title": "Swarm Intelligence & Evolutionary Algorithms Notes",
+                    "link": "https://drive.google.com/drive/folders/1Mtuy_vyI9hyBv5o_kNUSEJyfXteIYLP0?usp=sharing"
+                },
+                {
+                    "title": "Mobile Computing Notes",
+                    "link": "https://drive.google.com/drive/folders/1EZ2Uw7e22_0RdniHPc-MUo6JdFxaxLHQ?usp=sharing"
+                },
+                {
+                    "title": "Cloud Computing Notes",
+                    "link": "https://drive.google.com/drive/folders/1TK3cOHhIvhHqYPlY3wi9HJNcMSQT3UXg?usp=sharing"
+                },
+                {
+                    "title": "Pattern Recognition Notes",
+                    "link": "https://drive.google.com/drive/folders/1zZDmhtJEm7Bv7YypTiSPrTrzNMg6jhp0?usp=sharing"
+                }
+            ]
+        }
+    }
+}

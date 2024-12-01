@@ -1,0 +1,23 @@
+/* Global Styles */
+html, body {
+  height: 100%; /* Ensure body and html take up the full height of the viewport */
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column; /* Arrange page content in a column layout */
+  height: 100%;
+}
+
+/* Main Content Area */
+.app {
+  flex: 1; /* Ensures that the content grows and takes the remaining space */
+}
+
+

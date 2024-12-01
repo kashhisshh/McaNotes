@@ -1,0 +1,49 @@
+.footer {
+  background-color: #282c34;
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.mission-statement {
+  margin-bottom: 1.5rem;
+}
+
+.mission-statement p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.mission-statement p strong {
+  font-size: 1.2rem;
+  color: #ffcc00; /* Highlight "Start Learning!" */
+}
+
+.social-links {
+  margin-top: 1rem;
+}
+
+.social-links a {
+  margin: 0 0.5rem;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.social-links a:hover {
+  color: #ffcc00;
+}
+
+/* Social icon styling for LinkedIn and Instagram */
+.social-icon {
+  width: 24px;  /* Set size of the social logo */
+  height: 24px;
+  margin-left: 10px;
+  vertical-align: middle;  /* Align logo with text */
+}
